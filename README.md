@@ -1,2 +1,2 @@
 # Automated-Timetable
-<h1> Instructions: </h1>
+<h2> Instructions: </h2>
